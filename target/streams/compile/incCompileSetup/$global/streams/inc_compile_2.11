@@ -1,0 +1,285 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/common/package$.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/common/package.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> /Users/bb13/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> /Users/bb13/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> common.package
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+162 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> ::
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> <init>
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> ?0
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> A
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Any
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> B
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Boolean
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Class
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> File
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Function2
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> List
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> None
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Object
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Option
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Predef
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> Some
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> String
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> URI
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> URL
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> _root_
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> child
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> children
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> common
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> exists
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> file
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> getClass
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> getResource
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> io
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> java
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> package
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> scala
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> subFile
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> toURI
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> <
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> <repeated>
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> A
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> A1
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Any
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> B
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> C
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Error
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> IndexOutOfBoundsException
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Iterator
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> MatchError
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Nothing
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Object
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Some
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> StringOps
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> T
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> T0
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> T1
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> T2
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> T3
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> T4
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> Tuple4
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> accBits
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> bitsremain
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> codeTable
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> convertAcc
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> encodeChar
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> encodeText
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> f
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> getCharfromBits
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> i
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> insertChar
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> insertCodeTree
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> newTree
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> p
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> set
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+12 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1593775298000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1593775298000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1593775298000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1593783888000)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1593783888000)
+source stamps:
+2 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> hash(a12651392dab7724cc4b2f950531fe9baa390933)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1500701265000)
+/Users/bb13/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/bb13/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.Serializable
+internal apis:
+2 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXMUaQS4dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8diDHQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABEc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMyb1/C3QAD2dldENoYXJmcm9tQml0c3NxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADGclXmN0AAxhc0luc3RhbmNlT2ZzcQB+AAyZwjJJdAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAwvPyahdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAwi6dTHdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADJL0+TR0AARMZWFmc3EAfgAM7cS6KnQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAx1NCaFdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMojBu8XQACmVuY29kZUNoYXJzcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAMS89n5nQABiRpbml0JHNxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAM++o6kXQACmluc2VydENoYXJzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMoi1lqnQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJJNcjp0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADKGuWyp0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAMdqD2KHQADmluc2VydENvZGVUcmVlc3EAfgAMaE9rYXQACmNvbnZlcnRBY2NzcQB+AAzgqY7xdAAIQ29kZVRyZWVzcQB+AAzHdG2RdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4An0wACWluaGVyaXRlZHEAfgCfTAAHcGFyZW50c3EAfgCfeHEAfgC8c3EAfgC3dXEAfgCaAAAAAHNxAH4At3VxAH4AmgAAAABzcQB+ALd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANVzcQB+AMh0AANBbnlzcQB+AMxzcQB+AM91cQB+ANIAAAACc3EAfgDUdAAFc2NhbGFxAH4A23VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnBhdG1hdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxTsKAV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABWL1VzZXJzL2JiMTMvRG9jdW1lbnRzL2NvdXJzZXJhL0Z1bmN0aW9uYWwgUHJvZ3JhbW1pbmcvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABShJlE5Lat3JMxLL5UFMf6bqjkJMw==
+external apis:
+0 items
+source infos:
+2 items
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/bb13/Documents/coursera/Functional Programming/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAQAAAQAAALYAOyAgICAgIGNhc2UgRm9yayhsZWZ0LCByaWdodCwgY2hhcnMsIHdlaWdodCkgPT4gYml0cyBtYXRjaCB7AQAAGJQBAAAALwEALyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBgL1VzZXJzL2JiMTMvRG9jdW1lbnRzL2NvdXJzZXJhL0Z1bmN0aW9uYWwgUHJvZ3JhbW1pbmcvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAQBgL1VzZXJzL2JiMTMvRG9jdW1lbnRzL2NvdXJzZXJhL0Z1bmN0aW9uYWwgUHJvZ3JhbW1pbmcvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAHhtYXRjaCBtYXkgbm90IGJlIGV4aGF1c3RpdmUuCkl0IHdvdWxkIGZhaWwgb24gdGhlIGZvbGxvd2luZyBpbnB1dDogTGlzdCgoeDogcGF0bWF0Lkh1ZmZtYW4uQml0IGZvclNvbWUgeCBub3QgaW4gKDAsIDEpKSkBAAAAAA==
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxRpBLh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxR3fmV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxSf4/N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxSnmCZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxS8o8F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxTMOzN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxTocIB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcxTsKAV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVi9Vc2Vycy9iYjEzL0RvY3VtZW50cy9jb3Vyc2VyYS9GdW5jdGlvbmFsIFByb2dyYW1taW5nL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
